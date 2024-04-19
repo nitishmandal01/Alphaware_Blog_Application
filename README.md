@@ -1,1 +1,1 @@
-# Alphaware_Blog_Application
+# Blog_Application
